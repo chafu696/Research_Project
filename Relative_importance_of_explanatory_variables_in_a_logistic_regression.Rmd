@@ -21,7 +21,7 @@ library(dominanceanalysis)
 library(randomForest)
 ```
 
-# 1 Introduction
+# 1  Introduction
 
 Multiple linear regression is used to analyze a model with multiple independent variables and a dependent variable which all are continuous. In medicine, psychology and epidemic, analyzing the model with binary dependent variables has become prevalent in the last 20 years. Logistic regression is an appropriate method for this situation instead of multiple regression. The classic logistic regression model estimates the probability of each response variable value occurring based on a set of independent variables.[@stoltzfus2011logistic]
 
